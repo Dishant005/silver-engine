@@ -3,7 +3,7 @@ public class Diff {
         int a = 8;
         int b = 6;
 
-        System.out.println("The Sum is" + (a - b));
+        System.out.println("The Diff is" + (a - b));
     }
 }    
 }
